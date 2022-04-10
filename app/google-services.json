@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978685102125",
+    "firebase_url": "https://my--analytics-50c20.firebaseio.com",
+    "project_id": "my--analytics-50c20",
+    "storage_bucket": "my--analytics-50c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978685102125:android:14ce7fd79989b6fe7210a4",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978685102125-kui04bsiaon7v5hhpu77v7do5efrdrbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptTSBciiWAbgidx9AzOF-OpDBVemodqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978685102125-kui04bsiaon7v5hhpu77v7do5efrdrbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
